@@ -1,0 +1,10 @@
+@charset 'utf-8';
+.clearfix::after{content:'';display:block;clear:both;}
+.left{float:left;}
+.right{float:right;}
+.m0auto{margin:0 auto;}
+.m5px{margin:5px;}
+.m10px{margin:10px;}
+.m15px{margin:15px;}
+.m0_5px{margin:0 5px;}
+.m5per{margin:5%;}
